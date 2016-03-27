@@ -157,3 +157,22 @@ body{
 
 background-color: black;
 }
+#footer {
+	width: 600px;
+	height: 50px;
+	margin: 0px auto;
+	padding: 3px 0px 0px 0px;	
+	background: black;
+	position:absolute;
+	bottom:-200px;
+	left:355px; 
+	
+}
+
+#footer p {
+	margin: 0px;
+	padding-top: 15px;
+	text-align: center;
+	font-size: 13px;
+	color: #999999;
+}
