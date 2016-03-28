@@ -95,12 +95,10 @@ position: relative;
 	text-decoration: none;
 	font-weight: bold;
 	background: none;
-	color:red;
+	color:#999999;
 }
 
-#menu a:hover {
-	background: none;
-}
+
 #header {
 	width: 600px;
 	height: 60px;
