@@ -1,75 +1,62 @@
-#poza {
-position: relative;
-}
-#poza img {
-    position: absolute;
-    top: 40px;
-    right: -2px;
-}
-#poza1 {
-position: relative;
-}
+/* reclame stanga */
+
 #poza1 img {
     position: absolute;
-    top: 40px;
-    left: 0px;
+    top: 83px;
+    left: 8px;
 }
-#poza2 {
-position: relative;
-}
+
 #poza2 img {
     position: absolute;
-    top: 60px;
-    left: 350px;
+    top: 196px;
+    left: 8px;
 }
-#poza3 {
-position: relative;
-}
+
+
 #poza3 img {
     position: absolute;
-    top: 250px;
-    left: px;
+    top: 406px;
+    left: 8px;
 }
-#poza4 {
-position: relative;
-}
+
 #poza4 img {
     position: absolute;
-    top: 460px;
-    left: px;
+    top: 622px;
+    left: 8px;
 }
-#poza5 {
-position: relative;
-}
+/* reclame dreapta */
+
 #poza5 img {
     position: absolute;
-    top: 250px;
-    right: 0px;
+    top: 80px;
+    right: 8px;
 }
-#poza6 {
-position: relative;
-}
+
 #poza6 img {
     position: absolute;
-    top: 450px;
-    right: 0px;
+    top: 210px;
+    right: 6px;
 }
-#poza7 {
-position: relative;
-}
+
 #poza7 img {
     position: absolute;
-    top: -85px;
-    right: 0px;
+    top: 420px;
+    right: 8px;
 }
-#poza8 {
-position: relative;
-}
+
 #poza8 img {
     position: absolute;
-    top: -75px;
-    left: 0px;
+    top: 625px;
+    right: 8px;
 }
+/* poza mijloc */
+
+#poza img {
+    position: absolute;
+    top: 200px;
+    left: 380px;
+}
+
 #menu {
 	width: 600px;
 	height: 30px;
