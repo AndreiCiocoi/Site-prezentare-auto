@@ -99,7 +99,12 @@
 	font-size: 42px;
 	letter-spacing: -2px;
 }
-
+#header img {
+	float: center;
+	margin: 0px;
+	padding-top: 20px;
+	
+}
 #header h2 {
 	float: right;
 	margin: 10px 0px 0px 0px;
@@ -130,11 +135,21 @@
 }
 
 #logo h1 {
-	padding: 30px 0px 0px 210px;
+	padding: 30px 0px 0px 110px;
 	letter-spacing: 0px;	
 	
 }
-
+#logocar {
+	float: center;
+	width: 588px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	
+}
+#logocar img{
+	padding: 20px 0px 0px 90px;
+}
 #logo h1 span {
 	color: blue;
 }
