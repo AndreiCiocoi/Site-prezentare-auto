@@ -31,7 +31,7 @@ if( $_POST )
 
   mysql_query($query);
 
-  echo "<h2>Thank you for your Comment!</h2>";
+  echo "<div style='text-align:center;background-color:black;color:#999999;'><h2>Thank you for your Comment!</h2></div>";
 
   mysql_close($con);
 }
