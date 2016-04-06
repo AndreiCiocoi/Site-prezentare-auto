@@ -18,7 +18,7 @@ $query = "SELECT * FROM `comments` WHERE `articleid` =$article_id LIMIT 0 , 30";
 
 $comments = mysql_query($query);
 
-echo '<h1>User Comments</h1>';
+echo "<div style='text-align:center;background-color:black;color:#999999;'><h1>User Comments</h1>";
 
 while($row = mysql_fetch_array($comments, MYSQL_ASSOC))
 {
@@ -33,12 +33,10 @@ while($row = mysql_fetch_array($comments, MYSQL_ASSOC))
   $website = htmlspecialchars($row['website'],ENT_QUOTES);
   $comment = htmlspecialchars($row['comment'],ENT_QUOTES);
   
-  echo "  <div style='margin:30px 0px;'>
-      Name: $name<br />
-      Email: $email<br />
-      Website: $website<br />
-      Comment: $comment<br />
-      Timestamp: $timestamp
+  echo "  <div style='margin:30px 0px;background-color:black;color:#999999;'>
+  Name: $name<br />
+  Comment:$comment<br />
+      $timestamp
     </div>
   ";
 }
