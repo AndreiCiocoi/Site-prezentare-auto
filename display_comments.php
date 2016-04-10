@@ -23,14 +23,12 @@ echo "<div style='text-align:center;background-color:black;color:#999999;'><h1>U
 while($row = mysql_fetch_array($comments, MYSQL_ASSOC))
 {
   $name = $row['name'];
-  $email = $row['email'];
-  $website = $row['website'];
+ 
   $comment = $row['comment'];
   $timestamp = $row['timestamp'];
   
   $name = htmlspecialchars($row['name'],ENT_QUOTES);
-  $email = htmlspecialchars($row['email'],ENT_QUOTES);
-  $website = htmlspecialchars($row['website'],ENT_QUOTES);
+
   $comment = htmlspecialchars($row['comment'],ENT_QUOTES);
   
   echo "  <div style='margin:30px 0px;background-color:black;color:#999999;'>
