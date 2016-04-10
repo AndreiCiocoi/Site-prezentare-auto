@@ -1,0 +1,51 @@
+body{
+
+background-color: black;
+text-align:center;
+color:#999999;
+}
+#stiri{
+	top: 50px;
+	width: 1000px;
+	height: 30px;
+	margin: 0px auto;
+}
+
+
+#text{
+	position: absolute;
+    left: 0;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+	color:white;
+}
+
+#logo_4tuning  {
+	position: fixed;
+    left: 190px;
+    top: 170px;
+    	
+}
+#logo_ProMotor  {
+	position: fixed;
+    right: 250px;
+    top: 250px;
+}
+#logo_Volvo  {
+	position: fixed;
+    left: 190px;
+    top: 540px;
+}
+
+#logo_Audi  {
+	position: fixed;
+    left: 590px;
+    top: 450px;
+}
+
+a{
+	color:#999999;
+	text-decoration: none;
+}
