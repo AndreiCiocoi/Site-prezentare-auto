@@ -28,6 +28,14 @@ color:#999999;
 	float:right;
 	padding:30px 150px 0px 0px;
 }
+#stire5{
+	float:left;
+	padding:30px 0px 0px 150px;
+}
+#stire6{
+	float:right;
+	padding:30px 150px 0px 0px;
+}
 a{
 	color:#999999;
 	text-decoration: none;
