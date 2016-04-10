@@ -116,7 +116,7 @@
 
 #header a {
 	text-decoration: none;
-	color: red;
+	color: #999999;
 	
 }
 
@@ -156,6 +156,33 @@
 body{
 
 background-color: black;
+}
+#stiri{
+	width: 1000px;
+	height: 30px;
+	margin: 0px auto;
+}
+#titlustiri{
+	color:#999999;
+	padding-left:450px;
+	padding-top:30px;
+}
+#stire1  {
+	
+	float:right;
+	padding:30px 160px 0px 0px;
+}
+#stire1 a{
+	color:#999999;
+	text-decoration: none;
+}
+#stire2  {
+	float:left;
+	padding:30px 0px 0px 160px;	
+}
+#stire2  a{
+	color:#999999;
+	text-decoration: none;
 }
 #footer {
 	width: 600px;
