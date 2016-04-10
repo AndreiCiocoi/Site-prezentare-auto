@@ -2,10 +2,6 @@
 <form method='post'>
   Name: <input type='text' name='name' id='name'  /><br />
 
-  Email:  <input type='text' name='email' id='email' /><br />
-
-  Website: <input type='text' name='website' id='website' /><br />
-
 Comment:
   <textarea name='comment' id='comment'></textarea><br />
 
