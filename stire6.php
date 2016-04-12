@@ -1,4 +1,12 @@
 <div style='background-color:black;'>
+ <div id="header" style='width: 300px;height: 10px;margin: 0px auto;'>
+<div id="logo"style='float:left;'>	
+	<a href="index.html" style='color:#999999;text-decoration: none;'><h1>BestCars</h1></a>
+	</div>
+	<div id="logocar" style='float:right;'>	
+	<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
+	</div>
+	</div>
 <div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
 <img src="imagini/capacitcilindrica.jpg">
 <article>
