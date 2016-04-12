@@ -184,11 +184,70 @@ background-color: black;
 	color:#999999;
 	text-decoration: none;
 }
+#anunturi{
+	width: 1000px;
+	height: 30px;
+	margin: 0px auto;
+}
+#titluanunturi{
+	color:#999999;
+	padding-left:400px;
+	padding-top:330px;
+}
+#anunt1 img{
+	float:left;
+	padding:20px 10px 0px 160px;	
+}
+#anunt1 h3{
+	float:left;
+	color:#999999;
+	padding:0px 0px 0px 0px;	
+	
+}
+#anunt1 h2{
+	float:right;
+	color:#999999;
+	padding:0px 150px 0px 0px;	
+}
+#anunt1 p{
+	float:center;
+	color:#999999;
+	padding:130px 50px 0px 0px;	
+}
+#anunt2 img{
+	position:relative;
+	left:-270px;
+	padding-top:30px;
+}
+#anunt2 h3{
+	position:relative;
+	top:-160px;
+	left:435px;
+	color:#999999;
+	
+}
+#anunt2 h2{
+	position:relative;
+	top:-200px;
+	left:760px;
+	color:#999999;
+	
+}
+#anunt2 p{
+	color:#999999;
+	position:relative;
+	top:-140px;
+	left:435px;
+}
+#anunt2  a{
+	color:#999999;
+	text-decoration: none;
+}
 #footer {
 	width: 600px;
 	height: 50px;
 	margin: 0px auto;
-	padding: 350px 0px 0px 0px;		
+	padding: 750px 0px 0px 0px;		
 	background: black;
  
 	
