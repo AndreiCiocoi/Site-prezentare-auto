@@ -144,33 +144,45 @@
   
   			<p style='font-size:120%;'>In caz ca o autospeciala este implicata intr-un accident si soferul sau este 
   			vinovat, lucrurile se vor "solutiona" a doua zi. Masina care nu are RCA obtine de la un broker o
-  asigurare RCA in aceeasi zi, cu valabilitate de a doua zi si se schimba data accidentului, astfel 
-  incat masina sa figureze la data acestuia cu RCA valabil. Este un procedeu des intalnit,
-  din nefericire...</p>
-  <a target="_blank" href="imagini/pollotus.jpg.jpg"> <img src="imagini/pollotus.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>Celebrul Lotus B-123-POL nu se bucura nici el de asigurare RCA valabila...</p>
- <h3 style='text-align:left;'>Verifica si tu Politia daca are asigurare RCA!</h3>
- <p style='font-size:120%;'><b>Poate suntem noi paranoici sau exagerati, insa faptul ca Politia circula
- fara RCA este unicul raspuns la care am ajuns, dupa ce am verificat mai multe masini. Speram sa ne 
- inselam si speram ca toate masinile, indiferent de numarul de inmatriculare sau de inscriptiile de 
- pe ele sa detina RCA valabil. Insa dovezile spun altceva. Si daca ne inselam, abia asteptam sa fi 
- contrazisi.</b></p>
- <p style='font-size:120%;'><span style='text-decoration: underline;'>Dar pentru un plus de convingere, te rugam sa ne ajuti.</span>
- Si de fiecare data 
- cand vezi o masina de politie, <span style='color:#0066cc;'>fa-i o poza sau verifica tu direct numarul de inmatriculare in baza de 
- date.</span> Poti afla in doar cateva secunde daca masina cu girofaruri, cea care te-a oprit sa te verifice
- si sa aplice legea, incalca legea si pune siguranta rutiera in pericol, circuland fara RCA.</p>
- <h2>ATENTIE! NUMARUL DE INMATRICULARE SE BAGA IN BAZA DE DATE LEGAT, ADICA <span style='text-decoration:underline;'>B82RLK</span>, NU <span style='text-decoration:underline;'>B 82 RLK</span>!</h2>
- <h2>Daca il introduceti despartit nu o sa apara in baza de date!</h2>
- <p style='font-size:120%;color:red;'><span style='text-decoration:underline;'>Nota redactiei</span>: joi 11.02.2016 am cerut un punct de vedere oficial din
- partea Politiei Romane pe adresa de mail speciala pentru relatia cu presa, dar momentan nu am primit niciun raspuns oficial</p>
- <a target="_blank" href="imagini/4.jpg"> <img src="imagini/4.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>MAI 40782 - RCA valabil la ASIROM S.A. 15-11-2015 pana la 14-11-2016(stanga) si MAI 40734 - fara asigurare RCA valabila(dreapta)
-</p>
-  <p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
- </article>
+  			asigurare RCA in aceeasi zi, cu valabilitate de a doua zi si se schimba data accidentului, astfel 
+  			incat masina sa figureze la data acestuia cu RCA valabil. Este un procedeu des intalnit,
+  			din nefericire...</p>
+  
+  			<a target="_blank" href="imagini/pollotus.jpg.jpg"> <img src="imagini/pollotus.jpg" ></a>
+  			
+  			<p id="border" style='color:white;font-size:120%;'>Celebrul Lotus B-123-POL nu se bucura nici el de asigurare RCA valabila...</p>
+ 			
+ 			<h3 style='text-align:left;'>Verifica si tu Politia daca are asigurare RCA!</h3>
+ 			
+ 			<p style='font-size:120%;'><b>Poate suntem noi paranoici sau exagerati, insa faptul ca Politia circula
+ 			fara RCA este unicul raspuns la care am ajuns, dupa ce am verificat mai multe masini. Speram sa ne 
+ 			inselam si speram ca toate masinile, indiferent de numarul de inmatriculare sau de inscriptiile de 
+ 			pe ele sa detina RCA valabil. Insa dovezile spun altceva. Si daca ne inselam, abia asteptam sa fi 
+ 			contrazisi.</b></p>
+ 
+ 			<p style='font-size:120%;'><span style='text-decoration: underline;'>Dar pentru un plus de convingere, te rugam sa ne ajuti.</span>
+ 			Si de fiecare data 
+ 			cand vezi o masina de politie, <span style='color:#0066cc;'>fa-i o poza sau verifica tu direct numarul de inmatriculare in baza de 
+ 			date.</span> Poti afla in doar cateva secunde daca masina cu girofaruri, cea care te-a oprit sa te verifice
+ 			si sa aplice legea, incalca legea si pune siguranta rutiera in pericol, circuland fara RCA.</p>
+ 
+ 			<h2>ATENTIE! NUMARUL DE INMATRICULARE SE BAGA IN BAZA DE DATE LEGAT, ADICA <span style='text-decoration:underline;'>B82RLK</span>, NU <span style='text-decoration:underline;'>B 82 RLK</span>!</h2>
+ 			
+ 			<h2>Daca il introduceti despartit nu o sa apara in baza de date!</h2>
+ 
+ 			<p style='font-size:120%;color:red;'><span style='text-decoration:underline;'>Nota redactiei</span>: joi 11.02.2016 am cerut un punct de vedere oficial din
+ 			partea Politiei Romane pe adresa de mail speciala pentru relatia cu presa, dar momentan nu am primit niciun raspuns oficial</p>
+ 
+ 			<a target="_blank" href="imagini/4.jpg"> <img src="imagini/4.jpg" ></a>
+  			
+  			<p id="border" style='color:white;font-size:120%;'>MAI 40782 - RCA valabil la ASIROM S.A. 15-11-2015 pana la 14-11-2016(stanga) si MAI 40734 - fara asigurare RCA valabila(dreapta)
+			</p>
+  			
+  			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+ 		</article>
+	</div>
 </div>
-</div>
+
 <?php
 include("manage_comments.php");
 include("display_comments.php");
