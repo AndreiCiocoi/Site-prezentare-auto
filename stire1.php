@@ -16,7 +16,9 @@
 	<img src="imagini/stire1.jpg">
 	<article>
 		<h1 style='color:#0066cc;'>Specialistii ne invata: cum alegem anvelopele potrivite si cum<br> verificam masina la sfarsit de iarna</h1>
+		
 		<h3>Acum ca iarna si-a cam iesit din drepturi si meteorologii ne anunta ca urmeaza zile calduroase, tot mai multi soferi se pregatesc sa-si schimbe pneurile de iarna cu cele de vara. Indiferent ca vrei niste anvelope noi sau ca le pui pe cele din magazie, specialistii de la Top Lac Auto ne invata cum sa trecem de la un sezon la altul cu automobilul pentru a ne bucura de o maxima siguranta.</h3>
+		
 		<h3 class="h4" style='text-align:left;'><b>1. Alegerea corecta a anvelopelor</b></h3>
 		
 		<p style='font-size:120%;text-indent: 50px;'>Daca dupa sezonul rece trebuie sa achizitionam un set de vara nou, 
