@@ -66,29 +66,39 @@
  			individual in baza CEDAM.</b></p>
  			
  			<a target="_blank" href="imagini/1.jpg"> <img src="imagini/1.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>  MAI  39507 si MAI 35519 - nu figureaza cu RCA valabil</p>
-  <a target="_blank" href="imagini/polfararca3.jpg"> <img src="imagini/polfararca3.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>MAI 39957 - nu figureaza cu RCA valabil</p>
-  <h3 style='text-align:left;'>In baza de date CEDAM apar orice numere de inmatriculare</h3>
-  <p style='font-size:120%;'><b>Dupa ce m-am mai documentat online, am mai reusit sa le gasesc o scuza 
-  domnilor politisti care circula fara asigurare. Si anume, ca daca masina se afla la prima inmatriculare,
-  cum este cazul autospecialelor Volkswagen Polo sau noile Logane 2, interogarea in baza de date CEDAM 
-  se poate face doar dupa seria de sasiu.</b> Insa a picat si aceasta scuza, deoarece am facut cateva 
-  experimente cu masini despre care stiu sigur ca sunt la prima inmatriculare, cumparate de noi, si 
-  care figureaza cu RCA valabil. Dupa care, am reusit sa gasesc si doua masini Volkswagen Polo de 
-  politie din Timisoara, care figureaza cu RCA valabil, desi au fost inscrise la finele anului trecut. 
-  <b>Asadar, nu conteaza cand e inmatriculata masina pentru ca daca are RCA valabil o sa figureze
-  in sistem.</b></p>
-  <a target="_blank" href="imagini/2.jpg"> <img src="imagini/2.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>Mesaj pt o masina fara RCA valabil(stanga) si pentru o masina identificata cu RCA valabil(dreapta)</p>
-   <h3 style='text-align:left;'>Cand o masina nu are RCA valabil, nu figureaza in baza de date</h3>
-   <p style='font-size:120%;'>Atunci cand introducem un numar de inmatriculare in baza de date CEDAM si
-   aceasta nu are RCA valabil, apare mesajul <b>"Autovehiculul avand numarul de inmatriculare MAI35518 este 
-   inexistent sau nu figureaza in baza de date."</b> Am verificat acest lucru si cu o masina personala careia
-   i-a expirat RCA-ul acum cateva zile. Daca acum o saptamana figura in baza de date cu RCA valabil, 
-   interogarea aratandu-ne atat valabilitate, adica de cand a fost facuta si cand expira, cat si numele
-   asiguratorului, acum baza de date ne spune ca numarul este inexistent sau nu figureaza in baza de date
-   .</p>
+  
+  			<p id="border" style='color:white;font-size:120%;'>  MAI  39507 si MAI 35519 - nu figureaza cu RCA valabil</p>
+  
+  			<a target="_blank" href="imagini/polfararca3.jpg"> <img src="imagini/polfararca3.jpg" ></a>
+  
+  			<p id="border" style='color:white;font-size:120%;'>MAI 39957 - nu figureaza cu RCA valabil</p>
+  			
+  			<h3 style='text-align:left;'>In baza de date CEDAM apar orice numere de inmatriculare</h3>
+  			
+  			<p style='font-size:120%;'><b>Dupa ce m-am mai documentat online, am mai reusit sa le gasesc o scuza 
+  			domnilor politisti care circula fara asigurare. Si anume, ca daca masina se afla la prima inmatriculare,
+  			cum este cazul autospecialelor Volkswagen Polo sau noile Logane 2, interogarea in baza de date CEDAM 
+  			se poate face doar dupa seria de sasiu.</b> Insa a picat si aceasta scuza, deoarece am facut cateva 
+  			experimente cu masini despre care stiu sigur ca sunt la prima inmatriculare, cumparate de noi, si 
+  			care figureaza cu RCA valabil. Dupa care, am reusit sa gasesc si doua masini Volkswagen Polo de 
+  			politie din Timisoara, care figureaza cu RCA valabil, desi au fost inscrise la finele anului trecut. 
+  			<b>Asadar, nu conteaza cand e inmatriculata masina pentru ca daca are RCA valabil o sa figureze
+  			in sistem.</b></p>
+  			
+  			<a target="_blank" href="imagini/2.jpg"> <img src="imagini/2.jpg" ></a>
+  
+  			<p id="border" style='color:white;font-size:120%;'>Mesaj pt o masina fara RCA valabil(stanga) si pentru o masina identificata cu RCA valabil(dreapta)</p>
+   
+   			<h3 style='text-align:left;'>Cand o masina nu are RCA valabil, nu figureaza in baza de date</h3>
+   			
+   			<p style='font-size:120%;'>Atunci cand introducem un numar de inmatriculare in baza de date CEDAM si
+   			aceasta nu are RCA valabil, apare mesajul <b>"Autovehiculul avand numarul de inmatriculare MAI35518 este 
+   			inexistent sau nu figureaza in baza de date."</b> Am verificat acest lucru si cu o masina personala careia
+   			i-a expirat RCA-ul acum cateva zile. Daca acum o saptamana figura in baza de date cu RCA valabil, 
+   			interogarea aratandu-ne atat valabilitate, adica de cand a fost facuta si cand expira, cat si numele
+   			asiguratorului, acum baza de date ne spune ca numarul este inexistent sau nu figureaza in baza de date
+   			.</p>
+   
    <a target="_blank" href="imagini/3.jpg.jpg"> <img src="imagini/3.jpg" ></a>
   <p id="border" style='color:white;font-size:120%;'>MAI 40807 si  MAI 40808  - RCA valabil la City Insurance</p>
   <a target="_blank" href="imagini/poltimisoara.jpg.jpg"> <img src="imagini/poltimisoara.jpg" ></a>
