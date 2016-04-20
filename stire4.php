@@ -99,36 +99,51 @@
    			asiguratorului, acum baza de date ne spune ca numarul este inexistent sau nu figureaza in baza de date
    			.</p>
    
-   <a target="_blank" href="imagini/3.jpg.jpg"> <img src="imagini/3.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>MAI 40807 si  MAI 40808  - RCA valabil la City Insurance</p>
-  <a target="_blank" href="imagini/poltimisoara.jpg.jpg"> <img src="imagini/poltimisoara.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>Masinile din Timisoara figureaza toate cu RCA valabil (MAI 40807 - MAI 40816)</p>
- <h3 style='text-align:left;'>Politele RCA au nevoie de 2-3 zile ca sa fie procesate</h3>
- <p style='font-size:120%;'><b>Poate ca unicul motiv pentru care multe automobile de politie din toata 
- tara nu au RCA valabil este ca si-au facut politele azi sau ieri si nu au fost procesate de ASF.</b> 
- Insa ne vine greu sa credem ca zeci de autospeciale de politie si-au facut acum RCA si ca daca azi
- ele figureaza fara RCA in baza de date, daca vom interoga toate acele numere peste cateva zile, ele 
- vor aparea cu RCA valabil. Ar fi un caz fericit, dar putin probabil...</p>
- <h3 style='text-align:left;'>Da, masinile de politie, inclusiv noile autospeciale Volkswagen Polo, circula fara RCA</h3>
- <p style='font-size:120%;'>Dupa ce am introdus manual, de mai multe ori, numerele de inmatriculare 
- ale masinilor noi din dotarea politiei, celebrele Volkswagen Polo cu motoare 1.2 TSI, am reusit sa
- gasim doar trei masini cu RCA valabil. Restul, din pacate, nu figureaza in baza CEDAM, semn ca nu 
- detin o astfel de asigurare.<b> Nu trebuie sa uitam insa ca aceste masini sunt cumparate in leasing si ca
- au asigurare CASCO obligatorie, asigurare ce ar putea sa-si piarda valabilitatea in lipsa unui RCA 
- valabil...</b></p>
-  <a target="_blank" href="imagini/porschepol1.jpg.jpg"> <img src="imagini/porschepol1.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>Porschele prezent si la parada de 1 Decembrie nu are RCA valabil</p>
-  <h3 style='text-align:left;'>De ce circula Politia fara RCA la masini?</h3>
-   <p style='font-size:120%;'><b>Din lipsa de fonduri. Si pentru ca pot. Daca pe soferi ii opreste politia 
-   pentru verificarea actelor, inclusiv a RCA-ului, pe autospecialele de politie cine sa le opreasca? 
-   Nimeni. </b>Si cum sectiile de politie si diviziile din toata tara duc lipsa de fonduri, cumpara anvelope 
-   de iarna second-hand sau vin cu benzina de acasa, de unde sa mai fie bani pentru RCA? Problema este
-   ca in cazul unui accident rutier in care este implicata o autospeciala, lucrurile se vor complica.</p>
-    <a target="_blank" href="imagini/pologanradar.jpg"> <img src="imagini/pologanradar.jpg" ></a>
-  <p id="border" style='color:white;font-size:120%;'>MAI 34759 - Logan MCV cu radar, dar fara RCA</p>
-  <h3 style='text-align:left;'>Politia isi face RCA doar la nevoie</h3>
-  <p style='font-size:120%;'>In caz ca o autospeciala este implicata intr-un accident si soferul sau este 
-  vinovat, lucrurile se vor "solutiona" a doua zi. Masina care nu are RCA obtine de la un broker o
+   			<a target="_blank" href="imagini/3.jpg.jpg"> <img src="imagini/3.jpg" ></a>
+  
+  			<p id="border" style='color:white;font-size:120%;'>MAI 40807 si  MAI 40808  - RCA valabil la City Insurance</p>
+  			
+  			<a target="_blank" href="imagini/poltimisoara.jpg.jpg"> <img src="imagini/poltimisoara.jpg" ></a>
+  			
+  			<p id="border" style='color:white;font-size:120%;'>Masinile din Timisoara figureaza toate cu RCA valabil (MAI 40807 - MAI 40816)</p>
+ 			
+ 			<h3 style='text-align:left;'>Politele RCA au nevoie de 2-3 zile ca sa fie procesate</h3>
+ 			
+ 			<p style='font-size:120%;'><b>Poate ca unicul motiv pentru care multe automobile de politie din toata 
+ 			tara nu au RCA valabil este ca si-au facut politele azi sau ieri si nu au fost procesate de ASF.</b> 
+ 			Insa ne vine greu sa credem ca zeci de autospeciale de politie si-au facut acum RCA si ca daca azi
+ 			ele figureaza fara RCA in baza de date, daca vom interoga toate acele numere peste cateva zile, ele 
+ 			vor aparea cu RCA valabil. Ar fi un caz fericit, dar putin probabil...</p>
+ 
+ 			<h3 style='text-align:left;'>Da, masinile de politie, inclusiv noile autospeciale Volkswagen Polo, circula fara RCA</h3>
+ 
+ 			<p style='font-size:120%;'>Dupa ce am introdus manual, de mai multe ori, numerele de inmatriculare 
+ 			ale masinilor noi din dotarea politiei, celebrele Volkswagen Polo cu motoare 1.2 TSI, am reusit sa
+ 			gasim doar trei masini cu RCA valabil. Restul, din pacate, nu figureaza in baza CEDAM, semn ca nu 
+ 			detin o astfel de asigurare.<b> Nu trebuie sa uitam insa ca aceste masini sunt cumparate in leasing si ca
+ 			au asigurare CASCO obligatorie, asigurare ce ar putea sa-si piarda valabilitatea in lipsa unui RCA 
+ 			valabil...</b></p>
+  
+  			<a target="_blank" href="imagini/porschepol1.jpg.jpg"> <img src="imagini/porschepol1.jpg" ></a>
+  
+  			<p id="border" style='color:white;font-size:120%;'>Porschele prezent si la parada de 1 Decembrie nu are RCA valabil</p>
+  
+  			<h3 style='text-align:left;'>De ce circula Politia fara RCA la masini?</h3>
+   
+   			<p style='font-size:120%;'><b>Din lipsa de fonduri. Si pentru ca pot. Daca pe soferi ii opreste politia 
+   			pentru verificarea actelor, inclusiv a RCA-ului, pe autospecialele de politie cine sa le opreasca? 
+   			Nimeni. </b>Si cum sectiile de politie si diviziile din toata tara duc lipsa de fonduri, cumpara anvelope 
+   			de iarna second-hand sau vin cu benzina de acasa, de unde sa mai fie bani pentru RCA? Problema este
+   			ca in cazul unui accident rutier in care este implicata o autospeciala, lucrurile se vor complica.</p>
+    			
+    			<a target="_blank" href="imagini/pologanradar.jpg"> <img src="imagini/pologanradar.jpg" ></a>
+  
+  			<p id="border" style='color:white;font-size:120%;'>MAI 34759 - Logan MCV cu radar, dar fara RCA</p>
+  
+  			<h3 style='text-align:left;'>Politia isi face RCA doar la nevoie</h3>
+  
+  			<p style='font-size:120%;'>In caz ca o autospeciala este implicata intr-un accident si soferul sau este 
+  			vinovat, lucrurile se vor "solutiona" a doua zi. Masina care nu are RCA obtine de la un broker o
   asigurare RCA in aceeasi zi, cu valabilitate de a doua zi si se schimba data accidentului, astfel 
   incat masina sa figureze la data acestuia cu RCA valabil. Este un procedeu des intalnit,
   din nefericire...</p>
