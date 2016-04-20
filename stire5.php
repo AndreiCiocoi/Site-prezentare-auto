@@ -1,33 +1,44 @@
 <div style='background-color:black;'>
-<div id="header" style='width: 300px;height: 10px;margin: 0px auto;'>
-<div id="logo"style='float:left;'>	
-	<a href="index.html" style='color:#999999;text-decoration: none;'><h1>BestCars</h1></a>
+	
+	<div id="header" style='width: 300px;height: 10px;margin: 0px auto;'>
+
+		<div id="logo"style='float:left;'>	
+			<a href="index.html" style='color:#999999;text-decoration: none;'><h1>BestCars</h1></a>
+		</div>
+		
+		<div id="logocar" style='float:right;'>	
+			<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
+		</div>
 	</div>
-	<div id="logocar" style='float:right;'>	
-	<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
-	</div>
-	</div>
-<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
-<img src="imagini/faruri.jpg">
-<article>
-<h1 style='color:#0066cc;'>Imposibil de omologat? Ce elemente trebuie sa aiba farurile cu Xenon ca<br> sa circulam in legalitate?</h1>
-<h3>Internetul este plin cu sisteme aftermarket cu xenon, scumpe sau ieftine, pe care soferii din Romania 
-le cumpara avand impresia ca fac o afacere buna. Din pacate, in tara noastra este aproape imposibil sa iti
- montezi xenon pe masina si sa respecti legea, atata timp cat masina nu a venit din fabrica cu asa ceva.</h3>
-<p style='font-size:120%;'>Soferii romani, extrem de prost informati, au impresia ca isi pot schimba sursa
- de lumina de pe propriile automobile dupa bunul plac. Din nefericire pentru acestia, <b>Registrul Auto
- Roman interzice montarea unui alt tip de iluminare fara ca acesta sa nu fie omologat si mentionat in 
- cartea de identitate a autoturismului.</b></p>
- <p style='font-size:120%;'>Cazuri de soferi care si-au montat in farurile masinii kituri de xenon care
- costa sub 100 de lei sunt cu miile. Toti acesti soferi insa incalca legea si risca oricand sa ramana 
- fara talon si nu pot obtine legal ITP-ul sub nicio forma. <b>La fel de multi sunt si cei care au impresia 
- ca isi pot monta instalatii de xenon daca farurile lor au lupe, ceea ce este total gresit.</b></p>
-  <p style='font-size:120%;'><b>Inlocuirea sursei de iluminare a masinii cu un kit xenon, conform spuselor 
-  oficialilor RAR, se face doar in conditii speciale, extrem de greu de indeplinit de majoritatea soferilor.</b>
-  Ca sa respecte legea, un kit cu xenon trebuie neaparat sa fie format din:<span style='text-decoration:underline;'> faruri specifice, surse de
-  lumina cu descarcare in gaz, dispozitiv care declanseaza arcul electric (ignitor) si cel care 
-  stabilizeaza curentul electric (ballast), sistem automat de reglaj in functie de sarcina, spalator far.</span></p>
- <p style='font-size:120%;'><b>Cu alte cuvinte, daca tu ai pe masina faruri cu xenon, facute de tine
+	
+	<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
+		
+		<img src="imagini/faruri.jpg">
+		
+			<article>
+				<h1 style='color:#0066cc;'>Imposibil de omologat? Ce elemente trebuie sa aiba farurile cu Xenon ca<br> sa circulam in legalitate?</h1>
+
+				<h3>Internetul este plin cu sisteme aftermarket cu xenon, scumpe sau ieftine, pe care soferii din Romania 
+				le cumpara avand impresia ca fac o afacere buna. Din pacate, in tara noastra este aproape imposibil sa iti
+ 				montezi xenon pe masina si sa respecti legea, atata timp cat masina nu a venit din fabrica cu asa ceva.</h3>
+
+				<p style='font-size:120%;'>Soferii romani, extrem de prost informati, au impresia ca isi pot schimba sursa
+ 				de lumina de pe propriile automobile dupa bunul plac. Din nefericire pentru acestia, <b>Registrul Auto
+ 				Roman interzice montarea unui alt tip de iluminare fara ca acesta sa nu fie omologat si mentionat in 
+ 				cartea de identitate a autoturismului.</b></p>
+ 
+ 				<p style='font-size:120%;'>Cazuri de soferi care si-au montat in farurile masinii kituri de xenon care
+ 				costa sub 100 de lei sunt cu miile. Toti acesti soferi insa incalca legea si risca oricand sa ramana 
+ 				fara talon si nu pot obtine legal ITP-ul sub nicio forma. <b>La fel de multi sunt si cei care au impresia 
+ 				ca isi pot monta instalatii de xenon daca farurile lor au lupe, ceea ce este total gresit.</b></p>
+  
+  				<p style='font-size:120%;'><b>Inlocuirea sursei de iluminare a masinii cu un kit xenon, conform spuselor 
+  				oficialilor RAR, se face doar in conditii speciale, extrem de greu de indeplinit de majoritatea soferilor.</b>
+  				Ca sa respecte legea, un kit cu xenon trebuie neaparat sa fie format din:<span style='text-decoration:underline;'> faruri specifice, surse de
+  				lumina cu descarcare in gaz, dispozitiv care declanseaza arcul electric (ignitor) si cel care 
+  				stabilizeaza curentul electric (ballast), sistem automat de reglaj in functie de sarcina, spalator far.</span></p>
+ 
+ 				<p style='font-size:120%;'><b>Cu alte cuvinte, daca tu ai pe masina faruri cu xenon, facute de tine
  prin simpla montare a unor becuri, sau cine stie ce chinezarii ordinare, fara sa ai toate cele 
  mentionate mai sus, risti sa iti pierzi talonul si sa fii chemat la RAR.</b></p>
  <p style='font-size:120%;'><b>Cine doreste sa fie in legalitate are doar doua variante. Prima este sa-si 
