@@ -56,34 +56,42 @@
  			<p  style='color:white;font-size:120%;'>Banda speciala de facut la dreapta</p>
  			
  			<h3  style='text-align:left;'>Cand au dreptate soferii care claxoneaza de zor pe prima banda la semafor 
- intermitent?</h3>
- <p  style='font-size:120%;text-align:left;'>Exista insa si o situatie in care cei care vor sa faca la 
- dreapta ii claxoneaza de zor pe cei care blocheaza prima banda, pe buna dreptate. Este cazul acelor 
- situatii in care intersectia are o banda dedicata de facut la dreapta, semnalizata cu semafor intermitent.
- In cazul in care este o banda speciala de facut la dreapta, cu marcajul specific, dar pe ea stationeaza
- soferi care merg inainte, in aceasta situatie, acesti soferi sunt cei nesimtiti si mitocani pentru ca 
- blocheaza drumul, incalcand legea.</p>
- <a target="_blank" href="imagini/stefancudorobanti.jpg"><img src="imagini/stefancudorobanti.jpg"></a>
- <p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Dorobanti: soferii au banda speciala de
- facut la dreapta</p>
- <h3  style='text-align:left;'>Cazurile numeroase de prima banda blocata</h3>
- <p  style='font-size:120%;text-align:left;'>Din pacate, aglomeratia capitalei a dus la multe situatii 
- tensionate din pricina masinilor parcate neregulamentar pe prima banda, blocand benzile destinate 
- mersului la dreapta pe culoarea verde a semaforului intermitent. Cum este situatia din imaginea 
- urmatoare, din intersectia Stefan cel Mare, Calea Floreasca. Aici exista o banda speciala de facut 
- la dreapta dar care este vesnic blocata de masinile stationate neregulamentar. Prin urmare, soferii 
- care vor sa faca la dreapta vin pe banda a doua. Banda care este exclusiv pentru mers inainte, 
- conform marcajului de pe carosabil. Dar cei nerabdatori care vor sa faca la dreapta, ii claxoneaza pe
- acestia ca sa le elibereze banda... Din pacate, daca claxonezi cand prima banda e blocata, esti un
- sofer nesimtit. Pentru ca ii claxonezi pe soferii gresiti. Nu trebuie sa-i claxonezi pe cei care 
- asteapta culoarea verde ca sa mearga inainte, ci pe mitocanii care au parcat masinile pe prima banda.
- Nu ai ce sa faci decat sa astepti sa plece masinile din fata ta sau sa apelezi la Politia Rutiera care
- nu isi face treaba ca sa elibereze prima banda.</p>
- <a target="_blank" href="imagini/primabandablocata.jpg"><img src="imagini/primabandablocata.jpg"></a>
- <p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Floreasca: prima banda este blocata</p>
- <p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
-</article>
-</div>
+ 			intermitent?</h3>
+ 
+ 			<p  style='font-size:120%;text-align:left;'>Exista insa si o situatie in care cei care vor sa faca la 
+ 			dreapta ii claxoneaza de zor pe cei care blocheaza prima banda, pe buna dreptate. Este cazul acelor 
+ 			situatii in care intersectia are o banda dedicata de facut la dreapta, semnalizata cu semafor intermitent.
+ 			In cazul in care este o banda speciala de facut la dreapta, cu marcajul specific, dar pe ea stationeaza
+ 			soferi care merg inainte, in aceasta situatie, acesti soferi sunt cei nesimtiti si mitocani pentru ca 
+ 			blocheaza drumul, incalcand legea.</p>
+ 
+ 			<a target="_blank" href="imagini/stefancudorobanti.jpg"><img src="imagini/stefancudorobanti.jpg"></a>
+ 			
+ 			<p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Dorobanti: soferii au banda speciala de
+ 			facut la dreapta</p>
+ 
+ 			<h3  style='text-align:left;'>Cazurile numeroase de prima banda blocata</h3>
+ 			
+ 			<p  style='font-size:120%;text-align:left;'>Din pacate, aglomeratia capitalei a dus la multe situatii 
+ 			tensionate din pricina masinilor parcate neregulamentar pe prima banda, blocand benzile destinate 
+ 			mersului la dreapta pe culoarea verde a semaforului intermitent. Cum este situatia din imaginea 
+ 			urmatoare, din intersectia Stefan cel Mare, Calea Floreasca. Aici exista o banda speciala de facut 
+ 			la dreapta dar care este vesnic blocata de masinile stationate neregulamentar. Prin urmare, soferii 
+ 			care vor sa faca la dreapta vin pe banda a doua. Banda care este exclusiv pentru mers inainte, 
+ 			conform marcajului de pe carosabil. Dar cei nerabdatori care vor sa faca la dreapta, ii claxoneaza pe
+ 			acestia ca sa le elibereze banda... Din pacate, daca claxonezi cand prima banda e blocata, esti un
+ 			sofer nesimtit. Pentru ca ii claxonezi pe soferii gresiti. Nu trebuie sa-i claxonezi pe cei care 
+ 			asteapta culoarea verde ca sa mearga inainte, ci pe mitocanii care au parcat masinile pe prima banda.
+ 			Nu ai ce sa faci decat sa astepti sa plece masinile din fata ta sau sa apelezi la Politia Rutiera care
+ 			nu isi face treaba ca sa elibereze prima banda.</p>
+ 
+ 			<a target="_blank" href="imagini/primabandablocata.jpg"><img src="imagini/primabandablocata.jpg"></a>
+ 
+ 			<p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Floreasca: prima banda este blocata</p>
+ 
+ 			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+		</article>
+	</div>
 </div>
 
 <?php
