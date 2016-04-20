@@ -1,21 +1,29 @@
 <div style='background-color:black;' >
- <div id="header" style='width: 300px;height: 10px;margin: 0px auto;'>
-<div id="logo"style='float:left;'>	
-	<a href="index.html" style='color:#999999;text-decoration: none;'><h1>BestCars</h1></a>
+	
+	<div id="header" style='width: 300px;height: 10px;margin: 0px auto;'>
+		
+		<div id="logo"style='float:left;'>	
+			<a href="index.html" style='color:#999999;text-decoration: none;'><h1>BestCars</h1></a>
+		</div>
+	
+		<div id="logocar" style='float:right;'>	
+			<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
+		</div>
 	</div>
-	<div id="logocar" style='float:right;'>	
-	<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
-	</div>
-	</div>
-<div  style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
-<img src="imagini/politiefararca.jpg">
-<article>
-<h1 style='color:#0066cc;'>De ce masinile de Politie din Romania circula fara asigurare RCA?</h1>
-<h3 style='text-align:left;'>Toata lumea stie ca masinile trebuie sa detina o asigurare RCA obligatorie. Indiferent ca e vorba 
-de automobile personale sau proprietate a unor institutii de stat. Ei bine, dupa zeci de verificari a
- bazei de date publice a CEDAM, am realizat ca majoritatea masinilor de politie care circula in Romania 
- nu detin o polita de asigurare RCA valabila.</h3>
- <h3 style='text-align:left;'>Orice automobil asigurat apare in baza de date CEDAM</h3>
+
+	<div  style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
+		
+		<img src="imagini/politiefararca.jpg">
+		
+		<article>
+			<h1 style='color:#0066cc;'>De ce masinile de Politie din Romania circula fara asigurare RCA?</h1>
+			
+			<h3 style='text-align:left;'>Toata lumea stie ca masinile trebuie sa detina o asigurare RCA obligatorie. Indiferent ca e vorba 
+			de automobile personale sau proprietate a unor institutii de stat. Ei bine, dupa zeci de verificari a
+ 			bazei de date publice a CEDAM, am realizat ca majoritatea masinilor de politie care circula in Romania 
+ 			nu detin o polita de asigurare RCA valabila.</h3>
+ 
+ 			<h3 style='text-align:left;'>Orice automobil asigurat apare in baza de date CEDAM</h3>
  <p style='font-size:120%;'>Autoritatea de Supraveghere Financiara a pus la dispozitia soferilor o baza 
  de date in care sunt centralizate absolut toate politele de asigurare RCA la nivel national. 
  Adica e extrem de simplu: daca masina ta are asigurare RCA, poti verifica acest lucru introducand numarul 
