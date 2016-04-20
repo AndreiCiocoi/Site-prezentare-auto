@@ -11,20 +11,25 @@
 		</div>
 	</div>
 	
-<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
-<img src="imagini/semaforverde.jpg">
-<article>
-<h1 style='color:#0066cc;'>Semafor verde intermitent la dreapta: cine are voie sa stea pe prima banda?</h1>
-<h3>Romania este, din pacate, campioana la cateva lucruri in trafic: mitocanie si prostie. 
-Unul din cele mai elocvente exemple este comportamentul soferilor atunci cand ajung intr-o intersectie
- cu semafor intermitent pentru facut la dreapta.</h3>
- <p style='font-size:120%;'>Cu siguranta ti s-a intamplat sa ajungi intr-o intersectie 
- cu semafor intermitent verde de facut la dreapta. Si ai auzit claxoane, injuraturi sau nervi din partea 
- unor soferi care habar legislatie si cum sa abordeze asemenea situatii. In sfarsit, cautand prin Codul
- Rutier, am reusit sa ne dam seama cine are dreptate intr-o asemenea situatie.</p>
- <a target="_blank" href="imagini/sostefan.jpg"><img src="imagini/sosstefan.jpg"></a>
- <p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Lizeanu: prima banda NU este speciala de facut
- la dreapta</p>
+	<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
+		<img src="imagini/semaforverde.jpg">
+		<article>
+			<h1 style='color:#0066cc;'>Semafor verde intermitent la dreapta: cine are voie sa stea pe prima banda?</h1>
+
+			<h3>Romania este, din pacate, campioana la cateva lucruri in trafic: mitocanie si prostie. 
+			Unul din cele mai elocvente exemple este comportamentul soferilor atunci cand ajung intr-o intersectie
+ 			cu semafor intermitent pentru facut la dreapta.</h3>
+ 
+ 			<p style='font-size:120%;'>Cu siguranta ti s-a intamplat sa ajungi intr-o intersectie 
+ 			cu semafor intermitent verde de facut la dreapta. Si ai auzit claxoane, injuraturi sau nervi din partea 
+ 			unor soferi care habar legislatie si cum sa abordeze asemenea situatii. In sfarsit, cautand prin Codul
+ 			Rutier, am reusit sa ne dam seama cine are dreptate intr-o asemenea situatie.</p>
+ 
+ 			<a target="_blank" href="imagini/sostefan.jpg"><img src="imagini/sosstefan.jpg"></a>
+ 			
+ 			<p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Lizeanu: prima banda NU este speciala de facut
+ 			la dreapta</p>
+ 			
  <h3  style='text-align:left;'>Cand sunt soferii care claxoneaza de zor mitocani si nesimtiti?</h3>
  <p  style='font-size:120%;text-align:left;'>De obicei, in Bucuresti, atunci cand opresti pe prima banda 
  cu semafor intermitent, dar tu astepti sa se faca verde pentru directia inainte, soferii din spate care 
