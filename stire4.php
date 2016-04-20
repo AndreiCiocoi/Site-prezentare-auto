@@ -24,38 +24,48 @@
  			nu detin o polita de asigurare RCA valabila.</h3>
  
  			<h3 style='text-align:left;'>Orice automobil asigurat apare in baza de date CEDAM</h3>
- <p style='font-size:120%;'>Autoritatea de Supraveghere Financiara a pus la dispozitia soferilor o baza 
- de date in care sunt centralizate absolut toate politele de asigurare RCA la nivel national. 
- Adica e extrem de simplu: daca masina ta are asigurare RCA, poti verifica acest lucru introducand numarul 
- de inmatriculare. La interogarea acestei baze de date, in cateva secunde afli perioada de valabilitate 
- si compania de asigurare la care a fost efectuat RCA-ul. In caz ca masina nu are RCA valabil, ea nu apare
- in baza de date CEDAM. Poti verifica valabilitatea unei polite RCA pe <a href="http://www.asfromania.ro/consumatori/baza-de-date-cedam/interogare-polite-rca "style="text-decoration:none;color:#0066cc;;">site-ul oficial ASF</a>.</p>
-<h3 style='text-align:left;'>Autospeciale de politie fara RCA</h3>
-<p style='font-size:120%;'>Am cautat online imagini cat mai recente cu masini de politie, atat de la 
-Rutiera, cat si de la Locala sau apartinatoare unor sectii anume. Si, din nefericire, am avut surprize 
-neplacute.<b>Am reusit sa gasim doar cateva masini de politie cu RCA valabil, conform bazei de date CEDAM.
- Am introdus numarul de inmatriculare, vizibil in poze, si rezultatele au fost dezamagitoare. Mai exact,
- din 75 de numere de inmatriculare introduse, toate de la automobile de politie cu numere normale sau 
- de MAI, am reusit sa identificam numai 6 autospeciale cu RCA valabil: 3 masini Dacia Logan 
- (MCV cu radar si berlina) si 3 masini Volkswagen Polo.</b></p>
-<a target="_blank" href="imagini/polbreak.jpg"> <img src="imagini/polbreak.jpg"></a>
- <p id="border" style='color:white;font-size:120%;'>B-19-HTK are RCA valabil la OMNIASIG VIG S.A. - 
- de la 19-08-2015 pana la 18-08-2016</p>
- <h3 style='text-align:left;'>Da, pot fi interogate numerele cu MAI</h3>
- <p style='font-size:120%;'><b>Baza de date CEDAM permite interogarea numerelor de inmatriculare atat pe 
- formatul B-19-HTK, cat si pe formatul MAI 40897.</b> Am reusit sa identificam masini cu RCA valabil, dar 
- si fara RCA, in ambele formate de numere. Asadar, iese din discutie varianta ca in baza CEDAM numerele
- care apartin Ministerului de Afaceri Interne nu apar sau nu pot fi interogate.</p>
- <h3 style='text-align:left;'>Verificarea dupa numarul de inmatriculare sau seria de sasiu este acelasi lucru</h3>
- <p style='font-size:120%;'><b>Am incercat sa gasesc o scuza si sa cred ca acest numar urias de masini de
- Politie fara RCA care figureaza in baza de date CEDAM este cauzat de interogarea prin intermediul 
- numarului de inmatriculare (singura noastra varianta de verificare) si nu prin introducerea seriei 
- de sasiu.</b> Ei bine, un broker de asigurari ne-a clarificat situatia: in sistem sunt introduse toate 
- datele de pe polita RCA si este imposibil introducerea seriei de sasiu fara numarul de inmatriculare 
- sau invers. Asadar, indiferent de varianta de interogare pe care o alegi, rezultatul trebuie sa fie 
- acelasi, fara exceptie. <b>Mai mult, si cand e vorba de o asigurare colectiva, de flota, rezultatele apar 
- individual in baza CEDAM.</b></p>
- <a target="_blank" href="imagini/1.jpg"> <img src="imagini/1.jpg" ></a>
+ 
+ 			<p style='font-size:120%;'>Autoritatea de Supraveghere Financiara a pus la dispozitia soferilor o baza 
+ 			de date in care sunt centralizate absolut toate politele de asigurare RCA la nivel national. 
+ 			Adica e extrem de simplu: daca masina ta are asigurare RCA, poti verifica acest lucru introducand numarul 
+ 			de inmatriculare. La interogarea acestei baze de date, in cateva secunde afli perioada de valabilitate 
+ 			si compania de asigurare la care a fost efectuat RCA-ul. In caz ca masina nu are RCA valabil, ea nu apare
+ 			in baza de date CEDAM. Poti verifica valabilitatea unei polite RCA pe <a href="http://www.asfromania.ro/consumatori/baza-de-date-cedam/interogare-polite-rca "style="text-decoration:none;color:#0066cc;;">site-ul oficial ASF</a>.</p>
+
+			<h3 style='text-align:left;'>Autospeciale de politie fara RCA</h3>
+			
+			<p style='font-size:120%;'>Am cautat online imagini cat mai recente cu masini de politie, atat de la 
+			Rutiera, cat si de la Locala sau apartinatoare unor sectii anume. Si, din nefericire, am avut surprize 
+			neplacute.<b>Am reusit sa gasim doar cateva masini de politie cu RCA valabil, conform bazei de date CEDAM.
+ 			Am introdus numarul de inmatriculare, vizibil in poze, si rezultatele au fost dezamagitoare. Mai exact,
+ 			din 75 de numere de inmatriculare introduse, toate de la automobile de politie cu numere normale sau 
+ 			de MAI, am reusit sa identificam numai 6 autospeciale cu RCA valabil: 3 masini Dacia Logan 
+ 			(MCV cu radar si berlina) si 3 masini Volkswagen Polo.</b></p>
+
+			<a target="_blank" href="imagini/polbreak.jpg"> <img src="imagini/polbreak.jpg"></a>
+ 
+ 			<p id="border" style='color:white;font-size:120%;'>B-19-HTK are RCA valabil la OMNIASIG VIG S.A. - 
+ 			de la 19-08-2015 pana la 18-08-2016</p>
+ 
+ 			<h3 style='text-align:left;'>Da, pot fi interogate numerele cu MAI</h3>
+ 
+ 			<p style='font-size:120%;'><b>Baza de date CEDAM permite interogarea numerelor de inmatriculare atat pe 
+ 			formatul B-19-HTK, cat si pe formatul MAI 40897.</b> Am reusit sa identificam masini cu RCA valabil, dar 
+ 			si fara RCA, in ambele formate de numere. Asadar, iese din discutie varianta ca in baza CEDAM numerele
+ 			care apartin Ministerului de Afaceri Interne nu apar sau nu pot fi interogate.</p>
+ 
+ 			<h3 style='text-align:left;'>Verificarea dupa numarul de inmatriculare sau seria de sasiu este acelasi lucru</h3>
+ 
+ 			<p style='font-size:120%;'><b>Am incercat sa gasesc o scuza si sa cred ca acest numar urias de masini de
+ 			Politie fara RCA care figureaza in baza de date CEDAM este cauzat de interogarea prin intermediul 
+ 			numarului de inmatriculare (singura noastra varianta de verificare) si nu prin introducerea seriei 
+ 			de sasiu.</b> Ei bine, un broker de asigurari ne-a clarificat situatia: in sistem sunt introduse toate 
+ 			datele de pe polita RCA si este imposibil introducerea seriei de sasiu fara numarul de inmatriculare 
+ 			sau invers. Asadar, indiferent de varianta de interogare pe care o alegi, rezultatul trebuie sa fie 
+ 			acelasi, fara exceptie. <b>Mai mult, si cand e vorba de o asigurare colectiva, de flota, rezultatele apar 
+ 			individual in baza CEDAM.</b></p>
+ 			
+ 			<a target="_blank" href="imagini/1.jpg"> <img src="imagini/1.jpg" ></a>
   <p id="border" style='color:white;font-size:120%;'>  MAI  39507 si MAI 35519 - nu figureaza cu RCA valabil</p>
   <a target="_blank" href="imagini/polfararca3.jpg"> <img src="imagini/polfararca3.jpg" ></a>
   <p id="border" style='color:white;font-size:120%;'>MAI 39957 - nu figureaza cu RCA valabil</p>
