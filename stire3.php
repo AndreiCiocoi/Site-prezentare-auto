@@ -30,26 +30,32 @@
  			<p  style='color:white;font-size:120%;'>Stefan cel Mare colt cu Lizeanu: prima banda NU este speciala de facut
  			la dreapta</p>
  			
- <h3  style='text-align:left;'>Cand sunt soferii care claxoneaza de zor mitocani si nesimtiti?</h3>
- <p  style='font-size:120%;text-align:left;'>De obicei, in Bucuresti, atunci cand opresti pe prima banda 
- cu semafor intermitent, dar tu astepti sa se faca verde pentru directia inainte, soferii din spate care 
- vor sa faca dreapta te vor claxona. Din pacate pentru ei, nu au dreptate. Conform OUG 195/2002, art. 59, 
- punctul 4, se spune clar:</p>
- <p style='font-size:120%;text-indent:50px;'><i>(4) Când un semafor cu trei culori are o lumină
- verde intermitentă suplimentară, montată la același nivel cu lumina verde normală a semaforului,
- sub forma unei săgeți verzi pe fond negru, cu vârful spre dreapta, aprinderea acesteia semnifică 
- permisiunea pentru vehicule de a-și continua drumul în direcția indicată de sageată, indiferent de 
- culoarea semaforului electric, cu condiția acordării prioritații de trecere vehiculelor și pietonilor
- care au drept de circulație. </i> </p>
- <p  style='font-size:120%;text-align:left;'>Ce inseamna asta? Inseamna ca daca prima banda este pentru
- mers inainte, soferii care asteapta schimbarea semaforului in verde pentru a o lua inainte, pot sta
- fara probleme pe aceasta banda, chiar daca semaforul este intermitent verde la dreapta. Semaforul 
- intermitent le permite soferilor sa faca dreapta, doar daca nu incurca pe nimeni, doar dupa ce au 
- acordat prioritate celorlalti soferi. Cu alte cuvinte, daca il claxonezi pe cel din fata ta ca sa faci
- tu la dreapta, esti un prost, nesimtit si cu adevarat mitocan.</p>
- <a target="_blank" href="imagini/bandaspecialadr.jpg"><img src="imagini/bandaspecialadr.jpg"></a>
- <p  style='color:white;font-size:120%;'>Banda speciala de facut la dreapta</p>
- <h3  style='text-align:left;'>Cand au dreptate soferii care claxoneaza de zor pe prima banda la semafor 
+ 			<h3  style='text-align:left;'>Cand sunt soferii care claxoneaza de zor mitocani si nesimtiti?</h3>
+ 
+ 			<p  style='font-size:120%;text-align:left;'>De obicei, in Bucuresti, atunci cand opresti pe prima banda 
+ 			cu semafor intermitent, dar tu astepti sa se faca verde pentru directia inainte, soferii din spate care 
+ 			vor sa faca dreapta te vor claxona. Din pacate pentru ei, nu au dreptate. Conform OUG 195/2002, art. 59, 
+ 			punctul 4, se spune clar:</p>
+ 			
+ 			<p style='font-size:120%;text-indent:50px;'><i>(4) Când un semafor cu trei culori are o lumină
+ 			verde intermitentă suplimentară, montată la același nivel cu lumina verde normală a semaforului,
+ 			sub forma unei săgeți verzi pe fond negru, cu vârful spre dreapta, aprinderea acesteia semnifică 
+ 			permisiunea pentru vehicule de a-și continua drumul în direcția indicată de sageată, indiferent de 
+ 			culoarea semaforului electric, cu condiția acordării prioritații de trecere vehiculelor și pietonilor
+ 			care au drept de circulație. </i> </p>
+ 			
+ 			<p  style='font-size:120%;text-align:left;'>Ce inseamna asta? Inseamna ca daca prima banda este pentru
+ 			mers inainte, soferii care asteapta schimbarea semaforului in verde pentru a o lua inainte, pot sta
+ 			fara probleme pe aceasta banda, chiar daca semaforul este intermitent verde la dreapta. Semaforul 
+ 			intermitent le permite soferilor sa faca dreapta, doar daca nu incurca pe nimeni, doar dupa ce au 
+ 			acordat prioritate celorlalti soferi. Cu alte cuvinte, daca il claxonezi pe cel din fata ta ca sa faci
+ 			tu la dreapta, esti un prost, nesimtit si cu adevarat mitocan.</p>
+ 
+ 			<a target="_blank" href="imagini/bandaspecialadr.jpg"><img src="imagini/bandaspecialadr.jpg"></a>
+ 
+ 			<p  style='color:white;font-size:120%;'>Banda speciala de facut la dreapta</p>
+ 			
+ 			<h3  style='text-align:left;'>Cand au dreptate soferii care claxoneaza de zor pe prima banda la semafor 
  intermitent?</h3>
  <p  style='font-size:120%;text-align:left;'>Exista insa si o situatie in care cei care vor sa faca la 
  dreapta ii claxoneaza de zor pe cei care blocheaza prima banda, pe buna dreptate. Este cazul acelor 
