@@ -78,19 +78,24 @@
     				<p style='font-size:120%;'><b>Ulterior, cei care si-au pus pe masina faruri cu xenon aftermarket, 
 				trebuie sa mearga la o reprezentanta RAR pentru a mentionarea in carte: “Echipare retrofit cu surse 
 				de lumină cu descărcare în gaz”. Asta inseamna modificare in carte care costa circa 150 de lei.</b></p>
- <p style='font-size:120%;'>Cine este prins de autoritati ca circula cu o masina care are faruri cu xenon
- ce nu respecta aceste reguli, ramane fara talon si primeste o sanctiune de 1-2 puncte amenda, adica 
- intre 105 si 210 lei. Mai mult, cine ajunge la RAR pentru alte operatiuni, cum ar fi identificarea in
- vederea inmatricularii, va fi respins si cartea retinuta pana la modificarea farurilor. Cat despre ITP,
- un loc in care se face Inspectia Tehnica Periodica care se respecta si care respecta legea, nu va 
- accepta automobile care au sistemul de lumini din fabrica inlocuit.</p>
- <a target="_blank" href="imagini/kitfar.jpg"><img src="imagini/kitfar.jpg"></a>
- <p id="border" style='color:white;font-size:120%;'>Asemenea kituri sunt incomplete pentru cei care vor sa si 
- le monteze pe faruri obisnuite</p>
- <p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
- </article>
+ 
+ 				<p style='font-size:120%;'>Cine este prins de autoritati ca circula cu o masina care are faruri cu xenon
+ 				ce nu respecta aceste reguli, ramane fara talon si primeste o sanctiune de 1-2 puncte amenda, adica 
+ 				intre 105 si 210 lei. Mai mult, cine ajunge la RAR pentru alte operatiuni, cum ar fi identificarea in
+ 				vederea inmatricularii, va fi respins si cartea retinuta pana la modificarea farurilor. Cat despre ITP,
+ 				un loc in care se face Inspectia Tehnica Periodica care se respecta si care respecta legea, nu va 
+ 				accepta automobile care au sistemul de lumini din fabrica inlocuit.</p>
+ 
+ 				<a target="_blank" href="imagini/kitfar.jpg"><img src="imagini/kitfar.jpg"></a>
+ 
+ 				<p id="border" style='color:white;font-size:120%;'>Asemenea kituri sunt incomplete pentru cei care vor sa si 
+ 				le monteze pe faruri obisnuite</p>
+ 
+ 				<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+ 			</article>
+	</div>
 </div>
-</div>
+
 <?php
 include("manage_comments.php");
 include("display_comments.php");
