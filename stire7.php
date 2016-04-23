@@ -60,3 +60,9 @@
 		</article>
 	</div>
 </div>
+
+<?php
+include("manage_comments.php");
+include("display_comments.php");
+include("formcode.php");
+?>
