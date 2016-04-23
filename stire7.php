@@ -29,8 +29,6 @@
  			americana.</p>
  
  			<a target="_blank" href="imagini/imagine_stire7-2.jpg"><img src="imagini/imagine_stire7-2.jpg"></a>
- 			
- 			<p style='font-size:120%;text-align:left;'><b>Pi/4 X alezaj la puterea a doua X cursa X numarul de cilindri</b></p>-->
  
  			<p style='font-size:120%;'>Supercarul cu motor central de 3.5 litri V6 EcoBoost va avea peste 600 cp, insa alte detalii nu se cunosc, deoarece Ford 
  			a pastrat atat acest model secret, cat si specificatiile finale. Oricum, fara sa-i intereseze de performante, o sumedenie de 
