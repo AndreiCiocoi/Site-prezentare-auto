@@ -34,19 +34,19 @@ h2 span{
 	margin-left: 15em;
 }
 pre span{
-	margin-left: 5em;
+	margin-left: 2em;
 	color:red;
 }
 #infostg{
 	position:relative;
-	left:-190px;
+	left:180px;
 	font-size:120%;
 	
 }
 #infodr{
 	position:relative;
-	right:-190px;
-	top:-85px;
+	left:625px;
+	top:-90px;
 	font-size:120%;	
 }
 #text{
