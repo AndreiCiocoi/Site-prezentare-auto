@@ -2,7 +2,7 @@ body{
 
 background-color: black;
 text-align:center;
-color:#999999;
+color:#FFFFFF;
 }
 #header {
 	width: 300px;
@@ -48,6 +48,6 @@ color:#999999;
 	padding:30px 150px 0px 0px;
 }
 a{
-	color:#999999;
+	color:#FFFFFF;
 	text-decoration: none;
 }
