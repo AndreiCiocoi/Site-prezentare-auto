@@ -38,16 +38,12 @@
 			oficiala Ford ca sa cumpere un exemplar. Comenzile preliminare se vor incheia pe 12 mai, dupa care va urma o lunga 
 			asteptare pentru a vedea cine a fost ales sa conduca masina.</p>
  
- 			
- 
  			<p style='font-size:120%;'>Dar aceasta ingramadire la noul Ford GT nu prea poate fi explicata. Mai ales daca ne gandim ca masina, chiar daca va 
  			fi produsa in doar 500 de unitati, va avea un pret de 450.000 de dolari in America si 500.000 de Euro in Europa. Adica o 
 			suma uriasa, mai mare decat ar plati cineva pentru un Lamborghini Aventador, un Mercedes-Benz SLS 63 AMG sau un Ferrari 
 			F12. Chiar si asa, se pare ca banii nu sunt o problema pentru cei 7000 de oameni care s-au inscris pe lista de comenzi.
 			</p>
  
- 			
- 	
  			<a target="_blank" href="imagini/imagine_stire7-3.jpg"><img src="imagini/imagine_stire7-3.jpg"></a>
 			
 			<p style='font-size:120%;'>Ford a tinut insa sa sublinieze ca va alege clientii pe spranceana. Si a spus ca au prioritate cei care au de gand sa conduca 
