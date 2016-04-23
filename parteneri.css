@@ -2,7 +2,7 @@ body{
 
 background-color: black;
 text-align:center;
-color:#999999;
+color:#FFFFFF;
 }
 #stiri{
 	top: 50px;
@@ -46,6 +46,6 @@ color:#999999;
 }
 
 a{
-	color:#999999;
+	color:#FFFFFF;
 	text-decoration: none;
 }
