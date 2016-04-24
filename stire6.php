@@ -10,48 +10,64 @@
 			<a href="index.html"><img src="imagini/Logo 100X63.png"></a>
 		</div>
 	</div>
-	
-	<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
+	<?php
+	$con = mysql_connect('localhost','root','');
+ 
+if (!$con)
+{
+  die('Could not connect: ' . mysql_error());
+}
+ 
+mysql_select_db('auto', $con);
 
-		<img src="imagini/capacitcilindrica.jpg">
+$query = mysql_query("SELECT * FROM stiri WHERE id = 6") or die(mysql_error());
+while($row = mysql_fetch_array($query)){
+	$titlu = $row['titlu'];		$text11 = $row['text11'];		
+	$text1 = $row['text1'];				
+	$text2 = $row['text2'];				
+	$text3 = $row['text3'];			
+	$text4 = $row['text4'];				
+	$text5 = $row['text5'];				
+	$text6 = $row['text6'];				
+	$text7 = $row['text7'];			
+	$text8 = $row['text8'];				
+	$text9 = $row['text9'];			
+	$text10 = $row['text10'];			
+	
+}
+	echo "<div style='text-align:center;color:#999999;width: 950px;margin: 0px auto;'>
+
+		<img src='imagini/capacitcilindrica.jpg'>
 
 		<article>
-			<h1 style='color:#0066cc;'>Tu stii cum se calculeaza capacitatea cilindrica a unui motor?</h1>
+			<h1 style='color:#0066cc;'>$titlu</h1>
 
-			<h3>Cu totii avem automobile, scutere, motociclete sau barci de agrement. Si atata timp cat sunt
- 			dotate cu motoare termice, ele sunt catalogate in functie de capacitatea cilindrica a acestora. 
- 			Dar cum se calculeaza ea?</h3>
+			<h3>$text1</h3>
  
- 			<p style='font-size:120%;'>Capacitatea cilindrica se mai numeste litraj si este o unitate de masura a 
- 			motoarelor cu ardere interna. Capacitatea cilindrica, in linii mari, ne arata volumul pe care il are
- 			un bloc motor in spatiul pistoanelor. Cu alte cuvinte, cu cat volumul unui motor este mai mare, cu atat
- 			capacitatea este mai mare. Si pentru ca vorbim de volum, nu degeaba se masoara, in Europa, in litri
- 			sau in centimetri cubi.</p>
+ 			<p style='font-size:120%;'>$text2</p>
  
- 			<a target="_blank" href="imagini/capacitcil1.jpg"><img src="imagini/capacitcil1.jpg"></a>
+ 			<a target='_blank' href='$text3'><img src='$text3'></a>
  
- 			<p style='font-size:120%;text-align:left;'>Formula de calcul a unei capacitati cilindrice este urmatoarea:</p>
+ 			<p style='font-size:120%;text-align:left;'>$text4</p>
  			
- 			<p style='font-size:120%;text-align:left;'><b>Pi/4 X alezaj la puterea a doua X cursa X numarul de cilindri</b></p>
+ 			<p style='font-size:120%;text-align:left;'>$text5</p>
  
- 			<p style='font-size:120%;'>Alezajul (Bore in engleza) inseamna diametrul unui cilindru calculat in
- 			centimetri. Cursa (Stroke in engleza) este distanta pe care o face pistonul din pozitia cea mai joasa
- 			in pozitia cea mai inalta, calculata in centimetri.</p>
+ 			<p style='font-size:120%;'>$text6</p>
  
- 			<p style='font-size:120%;text-align:left;'>Volumul unui piston se calculeaza:<b> Pi/4 X alezaj la puterea a doua X cursa</b></p>
+ 			<p style='font-size:120%;text-align:left;'>$text7</p>
  
- 			<p style='font-size:120%;'>De exemplu, sa spunem ca un cilindru are un alezaj (diametru) de 10 centimetri
- 			si o cursa de 4 centimetri. Calculand dupa formula urmatoare ne iese capacitatea cilindrica:</p>
+ 			<p style='font-size:120%;'>$text8</p>
  
- 			<p style='font-size:120%;text-align:left;'>3.1416/4 × (10 cm)2 × 5 cm × 4 = 1,570 cm3 = 1.57 litri</p>
+ 			<p style='font-size:120%;text-align:left;'>$text9</p>
  	
- 			<a target="_blank" href="imagini/capacitcil2.jpg"><img src="imagini/capacitcil2.jpg"></a>
+ 			<a target='_blank' href='$text10'><img src='$text10'></a>
  
- 			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+ 			<p  style='text-align:left;font-size:110%;'>$text11</p>
 		</article>
 	</div>
 </div>
-
+";
+?>
 <?php
 include("manage_comments.php");
 include("display_comments.php");
