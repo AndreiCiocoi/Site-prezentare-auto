@@ -39,14 +39,14 @@ pre span{
 }
 #infostg{
 	position:relative;
-	left:-190px;
+	left:180px;
 	font-size:120%;
 	
 }
 #infodr{
 	position:relative;
-	right:-190px;
-	top:-85px;
+	left:625px;
+	top:-90px;
 	font-size:120%;	
 }
 #text{
