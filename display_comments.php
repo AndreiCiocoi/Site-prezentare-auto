@@ -18,7 +18,7 @@ $query = "SELECT * FROM `comments` WHERE `articleid` =$article_id LIMIT 0 , 30";
 
 $comments = mysql_query($query);
 
-echo "<div style='text-align:center;background-color:black;color:#999999;'><h1>User Comments</h1>";
+echo "<div style='text-align:center;background-color:black;color:#999999;'><h1>Comentarii:</h1>";
 
 while($row = mysql_fetch_array($comments, MYSQL_ASSOC))
 {
