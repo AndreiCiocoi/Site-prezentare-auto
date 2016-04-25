@@ -50,7 +50,7 @@
 			preferat sa minta.
 			</p>
  
- 			<a target="_blank" href="imagini/imagine_stire7-3.jpg"><img src="imagini/imagine_stire8-3.jpg"></a>
+ 			<a target="_blank" href="imagini/imagine_stire8-3.jpg"><img src="imagini/imagine_stire8-3.jpg"></a>
 			
 			<p style='font-size:120%;'>Chiar si asa, vorbim de zeci de mii de romani care si-au cumparat in perioada asta masini TDI cu propulsoare de 1.2 litri, 1.6 
  			litri sau 2.0 litri. Nu conteaza ca acestea au fost montate pe Passat, Polo, Golf, Fabia, Octavia, Leon, Ibiza, A4, A3 sau Superb.  
@@ -66,7 +66,7 @@
 			modificarea softului electronic astfel incat masina nu va mai avea aceleasi performante. Dar oare vor fi de acord proprietarii 
 			masinilor cu asta?</p>
 			
-			<a target="_blank" href="imagini/imagine_stire7-3.jpg"><img src="imagini/imagine_stire7-3.jpg"></a>
+			<a target="_blank" href="imagini/imagine_stire8-4.jpg"><img src="imagini/imagine_stire8-4.jpg"></a>
 			
 			<p style='font-size:120%;'>Desi este putin probabil un recall atat de masiv la nivel mondial, pentru ca vorbim de costuri imense care ar falimenta 
  			compania fara indoiala, aceasta este singura optiune fezabila. Daca masinile nu vor fi modificate, autoritatile americane si    
@@ -92,8 +92,8 @@
 			respecta legea, iar posesorii vor fi buni de plata si vor da in judecata la randul lor producatorul. Adica oricum, Volkswagen 
 			plateste. Cum vor alege sa abordeze situatia, doar ei stiu...
 			</p>
-			
-			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+ 
+ 			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
 		</article>
 	</div>
 </div>
