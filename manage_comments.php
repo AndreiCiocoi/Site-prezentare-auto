@@ -8,7 +8,7 @@ if( $_POST )
     die('Could not connect: ' . mysql_error());
   }
 
-  mysql_select_db('comm', $con);
+  mysql_select_db('auto', $con);
 
   $users_name = $_POST['name'];
   
@@ -21,7 +21,7 @@ if( $_POST )
   $articleid = $_GET['id'];
   if( ! is_numeric($articleid) )
     die('invalid article id');
-
+if (!empty($users_name)&&!empty($users_comment)){
   $query = "INSERT INTO `comments` (`id`, `name`,
         `comment`, `timestamp`, `articleid`) VALUES (NULL, '$users_name',
         '$users_comment',
@@ -29,8 +29,11 @@ if( $_POST )
 
   mysql_query($query);
 
-  echo "<div style='text-align:center;background-color:black;color:#999999;'><h2>Thank you for your Comment!</h2></div>";
+  echo "<div style='text-align:center;background-color:black;color:#999999;'><h2>Multumesc pentru comentariu!</h2></div>";
 
   mysql_close($con);
+}else{
+	echo "<div style='text-align:center;background-color:black;color:#999999;'><h3>Completati campurile  goale</h3></div>";
+}
 }
 ?>
