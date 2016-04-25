@@ -92,3 +92,14 @@
 			respecta legea, iar posesorii vor fi buni de plata si vor da in judecata la randul lor producatorul. Adica oricum, Volkswagen 
 			plateste. Cum vor alege sa abordeze situatia, doar ei stiu...
 			</p>
+			
+			<p id="sursa" style='text-align:left;font-size:110%;'><b>Sursa:www.4tuning.ro</b></p>
+		</article>
+	</div>
+</div>
+
+<?php
+include("manage_comments.php");
+include("display_comments.php");
+include("formcode.php");
+?>
