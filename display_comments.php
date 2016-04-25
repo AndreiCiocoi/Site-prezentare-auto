@@ -7,7 +7,7 @@ if (!$con)
   die('Could not connect: ' . mysql_error());
 }
  
-mysql_select_db('comm', $con);
+mysql_select_db('auto', $con);
 
 $article_id = $_GET['id'];
 
