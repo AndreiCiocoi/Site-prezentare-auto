@@ -57,6 +57,26 @@ color:#999999;
 	top:-140px;
 	left:-150px;
 }
+#anunt3 img{
+	position:relative;
+	left:-370px;
+	top:-110px;
+}
+#anunt3 h3{
+	position:relative;
+	top:-315px;
+	left:-110px;
+}
+#anunt3 h2{
+	position:relative;
+	top:-350px;
+	left:260px;
+}
+#anunt3 p{
+	position:relative;
+	top:-250px;
+	left:-150px;
+}
 a{
 	color:#999999;
 	text-decoration: none;
