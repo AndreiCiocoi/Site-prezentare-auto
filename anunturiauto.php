@@ -54,11 +54,8 @@ mysql_select_db('auto', $con);
 	// display pagination
 	
 	
-	for ($i = 1; $i <= $total_pages; $i++)
-	{
-		echo "<a href='anunturiauto.php?page=$i'>$i</a> ";
-	}
-	echo "</p>";
+
+	echo "<p></p>";
 	
 	// display data in table
 	echo "<table align='center'>";
@@ -87,5 +84,8 @@ mysql_select_db('auto', $con);
 	echo "</table>
 	<p><a href='add.php'>Adauga anunt</a></p>";
 	// pagination
-
+	for ($i = 1; $i <= $total_pages; $i++)
+	{
+		echo "<a href='anunturiauto.php?page=$i'>$i</a> ";
+	}
 ?>
