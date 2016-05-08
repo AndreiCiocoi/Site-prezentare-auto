@@ -5,9 +5,18 @@ echo "<html>
 		<link rel='stylesheet' href='anunturiauto.css'>
 	</head>
 	<body>
-
+			<div id='header'>
 				<div id='logo'><a href='index.html'><h1 >BestCars</h1></a></div>
 				<a href='index.html'><img src='imagini/Logo 100X63.png'></a>
+			</div>
+				 <div id='menu'>
+	       <ul>
+		   <li><a href='index.html' accesskey='1' title=''>Acasa</a></li>
+		   <li><a href='anunturiauto.php' accesskey='3' title=''>Anunturi auto</a></li>
+		   <li><a href='contact.php' accesskey='4' title=''>Contact Us</a></li>
+		   <li><a href='noutati.php' accesskey='5' title=''>Noutati</a></li>
+	       </ul>
+	  </div>
 				<h1>Anunturi Auto:</h1>
 		
 	";
