@@ -8,8 +8,7 @@ height: 60px;
 margin: 0px auto;
 }
 #header {
-	width: 300px;
-	height: 60px;
+	height: 80px;
 	margin: 0px auto;
 }
 #logo {
@@ -24,6 +23,33 @@ margin: 0px auto;
 	width: 1000px;
 	height: 30px;
 	margin: 0px auto;
+}
+#menu {
+	width: 600px;
+	height: 30px;
+	margin: 0px auto;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	width: 120px;
+	padding: 5px 0px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	background: none;
+	color:#999999;
 }
 #anunt1 img{
 	float:left;
