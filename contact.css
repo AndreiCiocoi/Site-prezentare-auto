@@ -3,17 +3,21 @@ body{
 background-color: black;
 text-align:center;
 color:#999999;
+width: 1000px;
+height: 60px;
+margin: 0px auto;
 }
 #header {
-	width: 300px;
-	height: 60px;
+	height: 80px;
 	margin: 0px auto;
 }
 #logo {
 	float:left;
+	position:relative;
+	left:300px;
 }
 #logocar{
-	float:right;
+	float:center;
 }
 #anunturi{
 	width: 500px;
@@ -29,4 +33,31 @@ table{
 	position:relative;
 	left:100px;
 	top:50px;
+}
+#menu {
+	width: 900px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 0px 0px 0px 165px;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	width: 120px;
+	padding: 15px 0px 0px 0px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	background: none;
+	color:#999999;
 }
