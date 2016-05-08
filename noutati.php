@@ -1,16 +1,6 @@
 
 <?php
-echo "<html>
-	<head>
-		<link rel='stylesheet' href='noutati.css'>
-	</head>
-	<body>
-
-				<div id='logo'><a href='index.html'><h1 >BestCars</h1></a></div>
-				<a href='index.html'><img src='imagini/Logo 100X63.png'></a>
-				<h1>Anunturi Auto:</h1>
-		
-	";
+require 'core.inc.php';
 $con = mysql_connect('localhost','root','');
  
 if (!$con)
@@ -19,6 +9,34 @@ if (!$con)
 }
  
 mysql_select_db('auto', $con);
+if (loggedin()){
+	$firstname = getuserfield('firstname');
+	$lastname = getuserfield('surname');
+	echo '<p style="padding-top:10px;"> you are logged in, '.$firstname.' '.$lastname.'. <a href="logout.php">Log Out</a><br></p> ';
+	
+}else{
+	include 'loginform.inc.php';
+}
+echo "<html>
+	<head>
+		<link rel='stylesheet' href='noutati.css'>
+	</head>
+	<body>
+
+				<div id='logo'><a href='index.html'><h1 >BestCars</h1></a></div>
+				<a href='index.html'><img src='imagini/Logo 100X63.png'></a>
+				 <div id='menu'>
+	       <ul>
+		   <li><a href='index.html' accesskey='1' title=''>Acasa</a></li>
+		   <li><a href='anunturiauto.php' accesskey='3' title=''>Anunturi auto</a></li>
+		   <li><a href='contact.php' accesskey='4' title=''>Contact Us</a></li>
+		   <li><a href='noutati.php' accesskey='5' title=''>Noutati</a></li>
+	       </ul>
+	  </div>
+				<h1>Anunturi Auto:</h1>
+		
+	";
+
 
 // number of results to show per page
 	$per_page = 2;
@@ -85,8 +103,10 @@ mysql_select_db('auto', $con);
 	echo "</tr>"; 
 	}
 	// close table>
-	echo "</table>
-	";
+	echo "</table>";
+	if (loggedin()){
+	echo"<p><a href='addstire.php'>Adauga stire</a></p>";
+	}
 	// pagination
 for ($i = 1; $i <= $total_pages; $i++)
 	{
