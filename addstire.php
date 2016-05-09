@@ -13,7 +13,13 @@
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
  <html>
  <head>
- <title>New Record</title>
+ <style>
+ body{
+	 text-align:center;
+	 background-color:black;
+	 color:#999999;
+ }
+ </style>
  </head>
  <body>
  <?php 
@@ -26,6 +32,7 @@
  
  <form action="" method="post">
  <div>
+  <h2>Adaugare stire</h2>
  <strong>Poza: *</strong> <input type="text" name="poza" value="<?php echo $poza; ?>"/><br/>
  <strong>Titlu: *</strong> <input type="text" name="titlu" value="<?php echo $titlu; ?>"/><br/>
  <strong>Text1: </strong> <input type="text" name="text1" value="<?php echo $text1; ?>"/><br/>
