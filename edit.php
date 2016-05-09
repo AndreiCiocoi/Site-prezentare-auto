@@ -14,7 +14,13 @@
  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
  <html>
  <head>
- <title>Edit Record</title>
+ <style>
+ body{
+	 text-align:center;
+	 background-color:black;
+	 color:#999999;
+ }
+ </style>
  </head>
  <body>
  <?php 
@@ -28,7 +34,7 @@
  <form action="" method="post">
  <input type="hidden" name="id" value="<?php echo $id; ?>"/>
  <div>
- <p><strong>ID:</strong> <?php echo $id; ?></p>
+ <h2>Editare anunt</h2>
  <strong>Titlu: *</strong> <input type="text" name="titlu" value="<?php echo $titlu; ?>"/><br/>
  <strong>Pret: *</strong> <input type="text" name="pret" value="<?php echo $pret; ?>"/><br/>
  <strong>Localitate: *</strong> <input type="text" name="localitate" value="<?php echo $localitate; ?>"/><br/>
