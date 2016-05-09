@@ -26,12 +26,13 @@ color:#999999;
 }
 
 h2{
-	text-align:center;
+	
 	padding-top:100px;
 	padding-right:0px;
 }
 h2 span{
 	margin-left: 15em;
+	
 }
 pre span{
 	margin-left: 2em;
@@ -58,6 +59,7 @@ pre span{
 	width: 600px;
 }
 #titlu{
-	position:relative;
-	left:-70px;
+	/*position:relative;
+	left:-80px;*/
+	
 }
