@@ -39,7 +39,7 @@ echo "<html>
 
 
 // number of results to show per page
-	$per_page = 2;
+	$per_page = 3;
 // figure out the total pages in the database
 	$result = mysql_query("SELECT * FROM stiri");
 	$total_results = mysql_num_rows($result);
