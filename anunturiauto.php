@@ -30,7 +30,7 @@ if (!$con)
 mysql_select_db('auto', $con);
 
 // number of results to show per page
-	$per_page = 1;
+	$per_page = 3;
 // figure out the total pages in the database
 	$result = mysql_query("SELECT * FROM anunturi");
 	$total_results = mysql_num_rows($result);
@@ -77,7 +77,7 @@ mysql_select_db('auto', $con);
 	
 		// echo out the contents of each row into a table
 	echo "<tr>";
-		echo '<td rowspan="2"width="180">';
+		echo '<td rowspan="2"width="180"align="center">';
 		echo '<a href="anunt' . mysql_result($result, $i, 'id') . '.php">';
 		echo '<img height="100" src=' . mysql_result($result, $i, 'poza') . '></a></td>';
 		echo '<td width="350"valign="top"><a href="anunt' . mysql_result($result, $i, 'id') . '.php"><h3>' . mysql_result($result, $i, 'titlu') . '</h3></a></td>';
