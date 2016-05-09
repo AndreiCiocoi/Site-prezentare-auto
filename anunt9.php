@@ -8,7 +8,7 @@ if (!$con)
  
 mysql_select_db('auto', $con);
 
-$query = mysql_query("SELECT * FROM anunturi WHERE id = 3") or die(mysql_error());
+$query = mysql_query("SELECT * FROM anunturi WHERE id = 9") or die(mysql_error());
 while($row = mysql_fetch_array($query)){
 	$titlu = $row['titlu'];					$text1 = $row['text1'];		$poza7 = $row['poza7'];
 	$pret = $row['pret'];					$text2 = $row['text2'];		
@@ -98,7 +98,8 @@ echo "<html>
 			</div>
 			
 			<div id='text'>
-				<p>$text1</p>
+				<pre>$text1
+				</pre>
 				
 				<p>
 					$text2
