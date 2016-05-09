@@ -2,7 +2,7 @@ body{
 
 background-color: black;
 text-align:center;
-color:#FFFFFF;
+color:#999999;
 width: 1000px;
 height: 60px;
 margin: 0px auto;
@@ -16,6 +16,9 @@ margin: 0px auto;
 	float:left;
 	position:relative;
 	left:300px;
+}
+#logo a{
+	color:#999999;
 }
 #logocar{
 	float:right;
