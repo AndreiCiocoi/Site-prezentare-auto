@@ -25,7 +25,7 @@ while($row = mysql_fetch_array($query)){
 }
 echo " <html>
 	<head>
-		<link rel='stylesheet' href='anunt2.css'>
+		<link rel='stylesheet' href='anunt1.css'>
 	</head>
 	
 	<body>
