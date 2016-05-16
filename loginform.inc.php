@@ -12,7 +12,7 @@ if (isset($_POST['username'])&&isset($_POST['password'])){
 			}else if($query_num_rows==1){
 				 $user_id = mysql_result($query_run,0,'id');
 				$_SESSION['user_id']=$user_id;
-				header('Location: noutati.php');
+				header('Location: '.$http_referer);
 			}
 		}
 	}else{
