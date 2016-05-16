@@ -17,7 +17,8 @@ if (loggedin()){
 }else{
 	include 'loginform.inc.php';
 }
-echo "<html>
+echo "<!DOCTYPE html>
+	<html>
 	<head>
 		<link rel='stylesheet' href='noutati.css'>
 	</head>
