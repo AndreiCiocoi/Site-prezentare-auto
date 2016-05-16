@@ -23,7 +23,8 @@ while($row = mysql_fetch_array($query)){
 	$Rulaj = $row['Rulaj'];					$poza5 = $row['poza5'];		
 	$Capacitmotor = $row['Capacitmotor'];	
 }
-echo " <html>
+echo " <!DOCTYPE html>
+	<html>
 	<head>
 		<link rel='stylesheet' href='anunt1.css'>
 	</head>
