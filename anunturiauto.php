@@ -1,6 +1,24 @@
 
 <?php
-echo "<html>
+require 'core.inc.php';
+$con = mysql_connect('localhost','root','');
+ 
+if (!$con)
+{
+  die('Could not connect: ' . mysql_error());
+}
+ 
+mysql_select_db('auto', $con);
+if (loggedin()){
+	$firstname = getuserfield('firstname');
+	$lastname = getuserfield('surname');
+	echo '<p style="padding-top:10px;"> you are logged in, '.$firstname.' '.$lastname.'. <a style="color:#FFFFFF;;"href="logout.php">Log Out</a><br></p> ';
+	
+}else{
+	include 'loginform.inc.php';
+}
+echo "<!DOCTYPE html>
+	<html>
 	<head>
 		<link rel='stylesheet' href='anunturiauto.css'>
 	</head>
@@ -20,14 +38,7 @@ echo "<html>
 				<h1>Anunturi Auto:</h1>
 		
 	";
-$con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
+
 
 // number of results to show per page
 	$per_page = 3;
@@ -85,13 +96,17 @@ mysql_select_db('auto', $con);
 	echo "</tr>"; 
 	echo"<tr>";
 		echo '<td>' . mysql_result($result, $i, 'localitate') . '</td>';
+		if (loggedin()){
 		echo '<td><a href="edit.php?id=' . mysql_result($result, $i, 'id') . '">Editeaza</a></td>';
 		echo '<td><a href="delete.php?id=' . mysql_result($result, $i, 'id') . '">Sterge</a></td>';
+		}
 	echo "</tr>"; 
 	}
 	// close table>
-	echo "</table>
-	<p><a href='add.php'>Adauga anunt</a></p>";
+	echo "</table>";
+	if (loggedin()){
+	echo"<p><a href='add.php'>Adauga anunt</a></p>";
+	}
 	// pagination
 	for ($i = 1; $i <= $total_pages; $i++)
 	{
