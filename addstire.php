@@ -6,7 +6,7 @@
  
  // creates the new record form
  // since this form is used multiple times in this file, I have made it a function that is easily reusable
- function renderForm($id,$poza,$titlu,$text1,$text2,$poza1,$text3,$text4,$poza2,$text5,$text6,
+ function renderForm($poza,$titlu,$text1,$text2,$poza1,$text3,$text4,$poza2,$text5,$text6,
  $poza3,$text7,$text8,$sursa,$error)
  {
  ?>
@@ -98,7 +98,7 @@ mysql_select_db('auto', $con);
  $error = 'ERROR: Please fill in all required fields!';
  
  // if either field is blank, display the form again
- renderForm($id,$poza,$titlu,$text1,$text2,$poza1,$text3,$text4,$poza2,$text5,$text6,
+ renderForm($poza,$titlu,$text1,$text2,$poza1,$text3,$text4,$poza2,$text5,$text6,
  $poza3,$text7,$text8,$sursa,$error);
  }
  else
