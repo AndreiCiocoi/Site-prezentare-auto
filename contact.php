@@ -1,21 +1,4 @@
 <?php 
-require 'core.inc.php';
-$con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
-if (loggedin()){
-	$firstname = getuserfield('firstname');
-	$lastname = getuserfield('surname');
-	echo '<p style="padding-top:10px;"> you are logged in, '.$firstname.' '.$lastname.'. <a style="color:#FFFFFF;;"href="logout.php">Log Out</a><br></p> ';
-	
-}else{
-	include 'loginform.inc.php';
-}
 if(isset($_POST['submit'])){
      $to = "seby_schlachter@yahoo.com"; // this is your Email address
      $from = $_POST['email']; // this is the sender's Email address
