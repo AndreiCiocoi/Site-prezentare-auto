@@ -61,14 +61,7 @@
  
 
  // connect to the database
- $con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
+require 'connect.inc.php';
  
  // check if the form has been submitted. If it has, start to process the form and save it to the database
  if (isset($_POST['submit']))
