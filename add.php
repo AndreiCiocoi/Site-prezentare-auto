@@ -73,15 +73,8 @@
  
 
  // connect to the database
- $con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
- 
+ require 'connect.inc.php';
+ require 'core.inc.php';
  // check if the form has been submitted. If it has, start to process the form and save it to the database
  if (isset($_POST['submit']))
  { 
@@ -112,7 +105,7 @@ mysql_select_db('auto', $con);
  $poza5 = mysql_real_escape_string(htmlspecialchars($_POST['poza5']));
  $poza6 = mysql_real_escape_string(htmlspecialchars($_POST['poza6']));
  $poza7 = mysql_real_escape_string(htmlspecialchars($_POST['poza7']));
- 
+ $username = getuserfield('username');
  // check to make sure both fields are entered
  if ($titlu == '' || $pret == '' || $localitate == ''|| $date == '' || $poza == ''|| $Oferitde == ''|| 
  $Model == ''|| $Fabricatie == ''|| $Caroserie == ''|| $Marca == ''|| $Combustibil == ''|| $Rulaj == ''|| $Capacitmotor == '')
@@ -133,7 +126,7 @@ mysql_select_db('auto', $con);
   Caroserie='$Caroserie', Marca='$Marca', Combustibil='$Combustibil', Rulaj='$Rulaj',
  Capacitmotor='$Capacitmotor', text1='$text1', text2='$text2', text3='$text3', text4='$text4',
  text5='$text5', text6='$text6', poza1='$poza1', poza2='$poza2', poza3='$poza3',
- poza4='$poza4', poza5='$poza5', poza6='$poza6', poza7='$poza7'")
+ poza4='$poza4', poza5='$poza5', poza6='$poza6', poza7='$poza7',username='$username'")
  or die(mysql_error()); 
  
  // once saved, redirect back to the view page
