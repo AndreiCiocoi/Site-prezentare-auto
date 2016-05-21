@@ -11,14 +11,7 @@
 		</div>
 	</div>
 <?php	
-$con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
+require 'connect.inc.php';
 
 $query = mysql_query("SELECT * FROM stiri WHERE id = 5") or die(mysql_error());
 while($row = mysql_fetch_array($query)){
