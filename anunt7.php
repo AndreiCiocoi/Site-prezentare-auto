@@ -1,12 +1,5 @@
 <?php
-$con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
+require 'connect.inc.php';
 
 $query = mysql_query("SELECT * FROM anunturi WHERE id = 7") or die(mysql_error());
 while($row = mysql_fetch_array($query)){
@@ -76,7 +69,7 @@ echo "<!DOCTYPE html>
 			<div id='infodr'>
 				
 				
-				<table style='width:20%'>
+				<table >
 					  <tr>
 						<td>Marca:</td>
 						<td><font color='red'>$Marca</font></td>		
