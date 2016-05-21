@@ -23,12 +23,21 @@ if (isset($_POST['username'])&&isset($_POST['password'])){
 ?>
 <style> 
 form { 
-    padding-top:10px;
+    position:relative;
+	top:10px;
 }
+input#A1 {
+	position:relative;
+	top:-37px;
+	left:320px;
+	}
 </style>
 <form action="" method="POST">
 Username: <input type = "text" name = "username">
 Password: <input type = "password" name = "password">
 <input type = "submit" value = "Log in">
 
+</form>
+<form  action="register.php">
+    <input type="submit" value="Register" id="A1">
 </form>
