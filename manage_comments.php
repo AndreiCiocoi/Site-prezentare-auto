@@ -1,14 +1,7 @@
 <?php
 if( $_POST )
 {
-  $con = mysql_connect('localhost','root','');
-
-  if (!$con)
-  {
-    die('Could not connect: ' . mysql_error());
-  }
-
-  mysql_select_db('auto', $con);
+ require 'connect.inc.php';
 
   $users_name = $_POST['name'];
   
