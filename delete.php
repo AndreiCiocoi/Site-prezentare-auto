@@ -5,14 +5,7 @@
 */
 
  // connect to the database
- $con = mysql_connect('localhost','root','');
- 
-if (!$con)
-{
-  die('Could not connect: ' . mysql_error());
-}
- 
-mysql_select_db('auto', $con);
+ require 'connect.inc.php';
  
  // check if the 'id' variable is set in URL, and check that it is valid
  if (isset($_GET['id']) && is_numeric($_GET['id']))
