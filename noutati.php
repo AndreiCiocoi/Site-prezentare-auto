@@ -99,7 +99,10 @@ echo "<!DOCTYPE html>
 	// close table>
 	echo "</table>";
 	if (loggedin()){
+		$user = getuserfield('username');
+		if($user== 'seby'){
 	echo"<p><a href='addstire.php'>Adauga stire</a></p>";
+		}
 	}
 	// pagination
 for ($i = 1; $i <= $total_pages; $i++)
